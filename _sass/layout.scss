@@ -46,19 +46,9 @@ section.opener.hero {
   margin-top: 0;
   margin: 0;
   height: 100vh;
-  /*
-  h1 {
-    max-width: 3em;
-    color: black;
-    text-shadow:
-      1px 1px 0 #fff,
-      1px -1px 0 #fff,
-      -1px 1px 0 #fff,
-      -1px -1px 0 #fff,
-      1px 0px 0 #fff,
-      0px 1px 0 #fff,
-      -1px 0px 0 #fff,
-      0px -1px 0 #fff;
-  }
-  */
+}
+
+::selection {
+  color: #000;
+  background: #39ff14;
 }
