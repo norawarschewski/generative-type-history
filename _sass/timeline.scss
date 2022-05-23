@@ -9,12 +9,12 @@ $highlight: rgb(255,0,200);
   }
 
   .vis-item {
-    border-color: pink;
+    border-color: #39ff14;
     background-color: transparent;
     color: black;
     border-radius: 0px;
     &.vis-range {
-      background-color: pink;
+      background-color: #39ff14;
     }
     .vis-item-overflow {
       overflow: visible;
@@ -37,7 +37,7 @@ $highlight: rgb(255,0,200);
     height: 0;
     border-left: 7px solid transparent;
     border-right: 7px solid transparent;
-    border-top: 8px solid purple;
+    border-top: 8px solid #39ff14;
   }
 
   .vis-item.vis-selected {
@@ -65,12 +65,12 @@ $highlight: rgb(255,0,200);
 
   .vis-time-axis .vis-grid.vis-minor {
     border-width: 2px;
-    border-color: pink;
+    border-color: #39ff14;
   }
 
   .vis-time-axis .vis-grid.vis-major {
     border-width: 2px;
-    border-color: purple;
+    border-color: #39ff14;
   }
 
   .vis-label {
