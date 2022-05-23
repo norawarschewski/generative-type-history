@@ -25,6 +25,8 @@ title: Generative Type
 | 1977 | | Metafont | - | Tool |
 | 1991 | | Python | - | Tool |
 | 1992 | | FontLab | - | Tool |
+| 1995 | | Java | - | Tool |
+| 1995 | | JavaScript | - | Tool |
 | 2000 | | RoboFog | - | Tool |
 | 2001 | | Processing | - | Tool |
 | 2002 | | TouchDesigner | - | Tool |
