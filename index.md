@@ -36,6 +36,7 @@ title: Generative Type
 | 1937 | now	| Mathew Carter | - | Person |
 | 1940 | now	| Sheila Levrant de Bretteville | - | Person |
 | 1942 | 2018	| Gerard Unger | - | Person |
+| 1956 | now | Petr van Blokland | - | Person |
 | 1957 | now	| Neville Brody | - | Person |
 | 1961 | now	| Donald Ervin Knuth | - | Person |
 | 1962 | now	| Erik van Blokland | - | Person |
