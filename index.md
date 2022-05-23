@@ -52,7 +52,7 @@ title: Generative Type
 | 1985 | now	| Refik Anadol | - | Person |
 | 1985 | now  | Christoph Knoth	| -	| Person | 
 | 1989 | now	| Nora Warschewski | - | Person |
-| | | | Tools | |										
+| | | | Tools and Languages | |										
 | 1977 | | Metafont | - | Tool |
 | 1991 | | Python | - | Tool |
 | 1992 | | FontLab | - | Tool |
@@ -74,7 +74,7 @@ title: Generative Type
 | 2015 | | GlyphsApp | - | Tool |
 | 2019 | | F%NT | - | Tool |
 | | | | Typeface | |									
-| 1745 | | Romain du Roi | Philippe Grandjean & a comite by king Louis XIV | Typeface |
+| 1745 | | Romain du Roi | Philippe Grandjean and a committee by king Louis XIV | Typeface |
 | 1901 | | Behrensschrift | Peter Behrens | Typeface |
 | 1907 | | Behrens Antiqua | Peter Behrens | Typeface |
 | 1914 | | Univers | Adrian Frutiger | Typeface |
