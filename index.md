@@ -21,6 +21,27 @@ title: Generative Type
 | 1920 | 1939 | Art Deco | - | Epoch |
 | 1945 | now | Contemporary | - | Epoch |
 | 1965 | now | Post Modernism | - | Epoch |
+| | | | Tools and Languages | |										
+| 1977 | | Metafont | - | Tool |
+| 1991 | | Python | - | Tool |
+| 1992 | | FontLab | - | Tool |
+| 2000 | | RoboFog | - | Tool |
+| 2001 | | Processing | - | Tool |
+| 2002 | | TouchDesigner | - | Tool |
+| 2003 | | RoboFab | - | Tool |
+| 2004 | | Superpolator | - | Tool |
+| 2004 | | Genotyp | - | Tool |
+| 2006 | | LetterModeller | - | Tool |
+| 2007 | | Font Constructor | - | Tool |
+| 2010 | | Fontstruct | - | Tool |
+| 2012 | | Metaflop Modulator | - | Tool |
+| 2013 | | p5js | - | Tool |
+| 2013 | | Metapolator | - | Tool |
+| 2013 | 2020	| Prototypo | - | Tool |
+| 2015 | | OpenFrameworks | - | Tool |
+| 2015 | | GlyphCollector | - | Tool |
+| 2015 | | GlyphsApp | - | Tool |
+| 2019 | | F%NT | - | Tool |
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
 | 1666 | 1714 | Philippe Grandjean | - | Person	| 
@@ -54,27 +75,6 @@ title: Generative Type
 | 1985 | now	| Refik Anadol | - | Person |
 | 1985 | now  | Christoph Knoth	| -	| Person | 
 | 1989 | now	| Nora Warschewski | - | Person |
-| | | | Tools and Languages | |										
-| 1977 | | Metafont | - | Tool |
-| 1991 | | Python | - | Tool |
-| 1992 | | FontLab | - | Tool |
-| 2000 | | RoboFog | - | Tool |
-| 2001 | | Processing | - | Tool |
-| 2002 | | TouchDesigner | - | Tool |
-| 2003 | | RoboFab | - | Tool |
-| 2004 | | Superpolator | - | Tool |
-| 2004 | | Genotyp | - | Tool |
-| 2006 | | LetterModeller | - | Tool |
-| 2007 | | Font Constructor | - | Tool |
-| 2010 | | Fontstruct | - | Tool |
-| 2012 | | Metaflop Modulator | - | Tool |
-| 2013 | | p5js | - | Tool |
-| 2013 | | Metapolator | - | Tool |
-| 2013 | 2020	| Prototypo | - | Tool |
-| 2015 | | OpenFrameworks | - | Tool |
-| 2015 | | GlyphCollector | - | Tool |
-| 2015 | | GlyphsApp | - | Tool |
-| 2019 | | F%NT | - | Tool |
 | | | | Typefaces | |									
 | 1745 | | Romain du Roi | Philippe Grandjean and a committee by king Louis XIV | Typeface |
 | 1901 | | Behrensschrift | Peter Behrens | Typeface |
