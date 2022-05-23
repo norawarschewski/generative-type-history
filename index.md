@@ -27,7 +27,7 @@ title: Generative Type
 | 1883 | 1969	| Walter Gropius | - | Person |
 | 1902 | 1974	| Jan Tschichold | - | Person |
 | 1918 | 2015	| Hermann Zapf | - | Person |
-| 1918 | 2019	| Gudrun Zapf-von Hesse | | | Person |
+| 1918 | 2019	| Gudrun Zapf-von Hesse | - | Person |
 | 1925 | 1994	| Muriel Cooper | - | Person |
 | 1928 | 2015	| Adrian Frutiger | - | Person |
 | 1930 | 2017	| Karl Gerstner | - | Person |
