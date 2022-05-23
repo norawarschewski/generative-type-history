@@ -38,10 +38,10 @@ label.switch {
     padding: 2px 3px 1px;
   }
   input:checked + span {
-    background-color: #2196F3;
+    background-color: #000;
   }
 
   input:focus + span {
-    box-shadow: 0 0 1px #2196F3;
+    box-shadow: 0 0 1px #000;
   }
 }
