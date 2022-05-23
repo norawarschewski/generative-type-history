@@ -1,0 +1,64 @@
+html,body {
+  padding: 0;
+  margin: 0;
+  background: $color-b;
+  overflow-y: overlay;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100vw;
+  max-width: 100%;
+}
+
+main {
+  padding-bottom: 1rem;
+  //min-height: 70vh;
+}
+
+footer {
+  margin-top: 3rem;
+}
+
+section {
+  display: block;
+  position: relative;
+  padding: 0 1.3rem 1.4rem 2rem;
+  //margin: 3rem 0;
+  &>.content {
+    padding: $lineMargin;
+    text-align: center;
+  }
+}
+
+section.opener {
+  text-align: center;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+  box-shadow: 0 1rem 1rem 0 rgba(0,0,0,.2);
+}
+
+section.opener.hero {
+  margin-top: .5rem;
+  margin-top: 0;
+  margin: 0;
+  height: 100vh;
+  /*
+  h1 {
+    max-width: 3em;
+    color: black;
+    text-shadow:
+      1px 1px 0 #fff,
+      1px -1px 0 #fff,
+      -1px 1px 0 #fff,
+      -1px -1px 0 #fff,
+      1px 0px 0 #fff,
+      0px 1px 0 #fff,
+      -1px 0px 0 #fff,
+      0px -1px 0 #fff;
+  }
+  */
+}

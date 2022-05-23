@@ -1,0 +1,66 @@
+@import "rouge-github";
+@import "variables";
+@import "typography";
+@import "layout";
+@import "table";
+@import "timeline";
+@import "scrollbars";
+@import "elements";
+
+@mixin large {
+  @media screen and (min-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
+
+html * {
+  box-sizing: border-box;
+}
+
+// --- Elements
+
+.font_test {
+  outline: none;
+  &:focus {
+    outline: none;
+  }
+}
+
+section.download_files {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  text-align: center;
+  padding: 0 .4rem;
+  border: 1px solid $color-b;
+  border-radius: 1em;
+  text-decoration: none;
+  background: $color-b;
+  //color: white;
+  box-shadow: 0 .16rem .16rem 0 rgba(0,0,0,.2);
+
+  &:hover {
+    background: black;
+    color: $color-b;
+    box-shadow: none;
+  }
+
+  &.centered {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

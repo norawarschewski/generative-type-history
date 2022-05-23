@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {%- include head.html -%}
+  <body>
+    {%- include header.html -%}
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+    {%- include footer.html -%}
+    <!-- Remote Scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!--<script src="https://d3js.org/d3.v3.min.js"></script>-->
+    <!-- Vis.js -->
+    <script type="text/javascript" src="https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script>
+
+    <!-- Local Scripts -->
+    <script src="{{ '/assets/js/scripts.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+    <!--<script src="{{ '/assets/js/d3-timeline.js?v=' | append: site.github.build_revision | relative_url }}"></script>-->
+    <!--<script src="{{ '/assets/js/d3-timeline-rengel.js?v=' | append: site.github.build_revision | relative_url }}"></script>-->
+    <!--<script src="{{ '/assets/js/d3-timeline-rengel-init.js?v=' | append: site.github.build_revision | relative_url }}"></script>-->
+    <script src="{{ '/assets/js/init-vis.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+
+  </body>
+</html>

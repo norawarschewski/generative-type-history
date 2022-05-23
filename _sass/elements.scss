@@ -1,0 +1,47 @@
+.vis-nav {
+  display: flex;
+  flex-flow: row nowrap;
+  position: fixed;
+  right: 20px;
+  top: 4px;
+  &>div {
+    flex: 0 0 auto;
+  }
+}
+
+// Toggle Switch
+label.switch {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+
+  input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  input + span {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+    padding: 2px 3px 1px;
+  }
+  input:checked + span {
+    background-color: #2196F3;
+  }
+
+  input:focus + span {
+    box-shadow: 0 0 1px #2196F3;
+  }
+}

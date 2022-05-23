@@ -1,0 +1,25 @@
+table, table * {
+  //display: block;
+  //box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  th,td {
+    text-align: left;
+    padding: .12rem .16rem .09rem
+  }
+  tr {
+    border-top: 1px solid black;
+    &:last-child {
+      border-bottom: 1px solid black;
+    }
+    &.empty-row {
+      background-color: rgb(160,160,160);
+      font-style: italic;
+    }
+  }
+}
