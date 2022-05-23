@@ -23,6 +23,7 @@ title: Generative Type
 | 1965 | now | Post Modernism | - | Epochs |
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
+| 1666 | 1714 | Philippe Grandjean | - | Person	| 
 | 1868 | 1940	| Peter Behrens | - | Person |
 | 1883 | 1969	| Walter Gropius | - | Person |
 | 1902 | 1974	| Jan Tschichold | - | Person |
