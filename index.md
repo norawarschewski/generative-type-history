@@ -21,14 +21,6 @@ title: Generative Type
 | 1920  | 1939	| Art Deco | | | Epoch |
 | 1945  | now	  | Contemporary | | | Epoch |
 | 1965  | now	  | Post Modernism | | | Epoch |
-| | | | Schools | |										
-| 1919 | 1925   | Bauhaus Weimar | | | School | 
-| 1925 | 1932   | Bauhaus Weimar | | | School | 
-| 1932 | 1933   | Bauhaus Berlin | | | School | 
-| 1937 | now    | New Bauhaus | | | School	| 
-| 1953 | 1968   | Ulm School of Design | | | School | 
-| 1970 | now    | Hochschule für Gestaltung Offenbach am Main | | | School | 
-| 2009 | now    | Rhine-Waal University | | | School | 
 | | | | Typeface | |									
 | 1745 | | Romain du Roi | Philippe Grandjean & a comite by king Louis XIV | Typeface |
 | 1901 | | Behrensschrift | Peter Behrens | Typeface |
