@@ -6,11 +6,11 @@ body,.vis-vertical-scroll {
    scrollbar-color: #39ff14 #39ff14;
   }
   &::-webkit-scrollbar {
-   width: 10px; // Mostly for vertical scrollbars
-   height: 10px; // Mostly for horizontal scrollbars
+   width: 3px; // Mostly for vertical scrollbars
+   height: 3px; // Mostly for horizontal scrollbars
   }
   &::-webkit-scrollbar-thumb { // Foreground
-   background: #999;
+   background: #000;
   }
   &::-webkit-scrollbar-track { // Background
    background: #333;
