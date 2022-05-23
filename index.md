@@ -8,7 +8,7 @@ title: Generative Type
 | Start | End | Title | Description | Category |
 | --- | --- | --- | --- | --- |
 | | | | Epochs | |									
-| 1850 | 1914 | Arts and Crafts Movement | | | Epochs |
+| 1850 | 1914 | Arts and Crafts Movement | x | Epochs |
 | 1880 | 1910 | Art Nouveau | | | Epochs |
 | 1897 | 1905 | Vienna Secession | | | Epochs |
 | 1907 | 1935 | Deutscher Werkbund | | | Epochs |
@@ -21,7 +21,7 @@ title: Generative Type
 | 1920 | 1939 | Art Deco | | | Epochs |
 | 1945 | now | Contemporary | | | Epochs |
 | 1965 | now | Post Modernism | | | Epochs |
-| | | | Persons | |										
+| | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | | | Person |
 | 1868 | 1940	| Peter Behrens | | | Person |
 | 1883 | 1969	| Walter Gropius | | | Person |
