@@ -50,7 +50,29 @@ title: Generative Type
 | 1978 | now	| Hansje van Halem | - | Person |
 | 1984 | now	| Lauren Lee McCarthy	| - | Person |
 | 1985 | now	| Refik Anadol | - | Person |
+| 1985 | now  | Christoph Knoth	| -	| Person | 
 | 1989 | now	| Nora Warschewski | - | Person |
+| | | | Tools | |										
+| 1977 | | Metafont | - | Tool |
+| 1991 | | Python | - | Tool |
+| 1992 | | FontLab | - | Tool |
+| 2000 | | RoboFog | - | Tool |
+| 2001 | | Processing | - | Tool |
+| 2002 | | TouchDesigner | - | Tool |
+| 2003 | | RoboFab | - | Tool |
+| 2004 | | Superpolator | - | Tool |
+| 2004 | | Genotyp | - | Tool |
+| 2006 | | LetterModeller | - | Tool |
+| 2007 | | Font Constructor | - | Tool |
+| 2010 | | Fontstruct | - | Tool |
+| 2012 | | Metaflop Modulator | - | Tool |
+| 2013 | | p5js | - | Tool |
+| 2013 | | Metapolator | - | Tool |
+| 2013 | 2020	| Prototypo | - | Tool |
+| 2015 | | OpenFrameworks | - | Tool |
+| 2015 | | GlyphCollector | - | Tool |
+| 2015 | | GlyphsApp | - | Tool |
+| 2019 | | F%NT | - | Tool |
 | | | | Typeface | |									
 | 1745 | | Romain du Roi | Philippe Grandjean & a comite by king Louis XIV | Typeface |
 | 1901 | | Behrensschrift | Peter Behrens | Typeface |
