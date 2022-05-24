@@ -33,6 +33,12 @@ title: Generative Type
 | 	1907	| 	now	| 	Deutscher Werkbund	| 	-	| 	School	| 
 | 	1910	| 	now	| 	Kent State University	| 	Creative Coding	| 	School	| 
 | 	1919	| 	1925	| 	Bauhaus Weimar	| 	-	| 	School	| 
+| 	1925	| 	1932	| 	Bauhaus Weimar	| 	-	| 	School	| 
+| 	1932	| 	1933	| 	Bauhaus Berlin	| 	-	| 	School	| 
+| 	1937	| 	now	| 	New Bauhaus	| 	-	| 	School	| 
+| 	1953	| 	1968	| 	Ulm School of Design	| 	-	| 	School	| 
+| 	1963	| 	now	| 	University of York	| 	Creative Coding	| 	School	| 
+| 	1965	| 	now	| 	NYU Tisch	| 	Creative Computing, Code!, Introduction to Machine, Learning for the Arts	| 	School	| 
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
 | 1666 | 1714 | Philippe Grandjean | - | Person	| 
