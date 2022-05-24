@@ -21,29 +21,29 @@ title: Generative Type
 | 1920 | 1939 | Art Deco | - | Epoch |
 | 1945 | now | Contemporary | - | Epoch |
 | 1965 | now | Post Modernism | - | Epoch |
-| | | | Tools and Languages | |										
-| 1977 | | Metafont | - | Tool |
-| 1991 | | Python | - | Tool |
-| 1992 | | FontLab | - | Tool |
-| 1995 | | Java | - | Tool |
-| 1995 | | JavaScript | - | Tool |
-| 2000 | | RoboFog | - | Tool |
-| 2001 | | Processing | - | Tool |
-| 2002 | | TouchDesigner | - | Tool |
-| 2003 | | RoboFab | - | Tool |
-| 2004 | | Superpolator | - | Tool |
-| 2004 | | Genotyp | - | Tool |
-| 2006 | | LetterModeller | - | Tool |
-| 2007 | | Font Constructor | - | Tool |
-| 2010 | | Fontstruct | - | Tool |
-| 2012 | | Metaflop Modulator | - | Tool |
-| 2013 | | p5js | - | Tool |
-| 2013 | | Metapolator | - | Tool |
-| 2013 | 2020	| Prototypo | - | Tool |
-| 2015 | | OpenFrameworks | - | Tool |
-| 2015 | | GlyphCollector | - | Tool |
-| 2015 | | GlyphsApp | - | Tool |
-| 2019 | | F%NT | - | Tool |
+| | | | Schools | |										
+| 	1682	| 	now	| 	Royal Academy of Art The Hague	| 	Creative Coding	| 	School	| 
+| 	1701	| 	now	| 	Yale University	| 	-	| 	School	| 
+| 	1821	| 	now	| 	écal Lausanne	| 	Creative Coding	| 	School	| 
+| 	1831	| 	now	| 	Universität Hannover	| 	Creative Coding Constructs (Physical Computing, Parametrisches Entwerfen)	| 	School	| 
+| 	1863	| 	now	| 	Politecnico di Milano	| 	Creative Coding	| 	School	| 
+| 	1890	| 	now	| 	NYU Steinhardt	| 	Creative Coding	| 	School	| 
+| 	1896	| 	now	| 	Parsons School of Design	| 	Creative Coding	| 	School	| 
+| 	1897	| 	now	| 	Victoria University of Wellington	| 	Creative Coding, Waehere ā-Auaha 	| 	School	| 
+| 	1907	| 	now	| 	Deutscher Werkbund	| 	-	| 	School	| 
+| 	1910	| 	now	| 	Kent State University	| 	Creative Coding	| 	School	| 
+| 	1919	| 	1925	| 	Bauhaus Weimar	| 	-	| 	School	| 
+| 	1925	| 	1932	| 	Bauhaus Weimar	| 	-	| 	School	| 
+| 	1932	| 	1933	| 	Bauhaus Berlin	| 	-	| 	School	| 
+| 	1937	| 	now	| 	New Bauhaus	| 	-	| 	School	| 
+| 	1953	| 	1968	| 	Ulm School of Design	| 	-	| 	School	| 
+| 	1963	| 	now	| 	University of York	| 	Creative Coding	| 	School	| 
+| 	1965	| 	now	| 	NYU Tisch	| 	Creative Computing, Code!, Introduction to Machine, Learning for the Arts	| 	School	| 
+	1970	| 	now	| 	Hochschule für Gestaltung Offenbach am Main 	| 	-	| 	School	| 
+| 	1971	| 	now	| 	Hochschule Osnabrück	| 	Creative Coding	| 	School	| 
+| 	1986	| 	now	| 	UAL	| 	Creative Coding and Creative Computing Frameworks	| 	School	| 
+| 	2009	| 	now	| 	Rhine-Waal University	| 	Elective Workshop Creative Coding, Creative Computing	| 	School	| 
+| 	2013	| 	now	| 	School for Poetic Computation	| 	-	| 	School	| 
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
 | 1666 | 1714 | Philippe Grandjean | - | Person	| 
@@ -77,6 +77,29 @@ title: Generative Type
 | 1985 | now	| Refik Anadol | - | Person |
 | 1985 | now  | Christoph Knoth	| -	| Person | 
 | 1989 | now	| Nora Warschewski | - | Person |
+| | | | Tools and Languages | |										
+| 1977 | | Metafont | - | Tool |
+| 1991 | | Python | - | Tool |
+| 1992 | | FontLab | - | Tool |
+| 1995 | | Java | - | Tool |
+| 1995 | | JavaScript | - | Tool |
+| 2000 | | RoboFog | - | Tool |
+| 2001 | | Processing | - | Tool |
+| 2002 | | TouchDesigner | - | Tool |
+| 2003 | | RoboFab | - | Tool |
+| 2004 | | Superpolator | - | Tool |
+| 2004 | | Genotyp | - | Tool |
+| 2006 | | LetterModeller | - | Tool |
+| 2007 | | Font Constructor | - | Tool |
+| 2010 | | Fontstruct | - | Tool |
+| 2012 | | Metaflop Modulator | - | Tool |
+| 2013 | | p5js | - | Tool |
+| 2013 | | Metapolator | - | Tool |
+| 2013 | 2020	| Prototypo | - | Tool |
+| 2015 | | OpenFrameworks | - | Tool |
+| 2015 | | GlyphCollector | - | Tool |
+| 2015 | | GlyphsApp | - | Tool |
+| 2019 | | F%NT | - | Tool |
 | | | | Typefaces | |									
 | 1745 | | Romain du Roi | Philippe Grandjean and a committee by king Louis XIV | Typeface |
 | 1901 | | Behrensschrift | Peter Behrens | Typeface |
