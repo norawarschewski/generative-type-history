@@ -106,10 +106,10 @@ title: Generative Type
 | 1914 | | Univers | Adrian Frutiger | Typeface |
 | 1975 | | Marconi | Hermann Zapf | Typeface |
 | 1983 | | AMS Euler | Hermann Zapf, Donald Knuth | Typeface |
-| 1987 | | Swift	| Gerard Unger | Typeface |
-| 1987 | | Remer	| Gerrit Noordzij | Typeface |
-| 	1987	| 		| 	Nofret	| 	Gudrun Zapf-von Hesse	| 	Typeface	| 
+| 1987 | | Swift | Gerard Unger | Typeface |
+| 1987 | | Remer | Gerrit Noordzij | Typeface |
+| 1987 | | Nofret | Gudrun Zapf-von Hesse	| 	Typeface	| 
 | 1988 | | Proforma | Petr van Blokland | Typeface |
 | 1990 | | Beowulf | Erik van Blokland, Just van Rossum | Typeface |
 | 1992 | | Blur | Neville Brody | Typeface |
-| 	2018	| 		| 	Hesse-Antiqua	| 	Gudrun Zapf-von Hesse /w Ferdinand Ulrich	| 	Typeface	| 
+| 2018 | | Hesse-Antiqua | Gudrun Zapf-von Hesse /w Ferdinand Ulrich | Typeface | 
