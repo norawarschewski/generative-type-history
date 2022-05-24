@@ -27,6 +27,12 @@ title: Generative Type
 | 	1821	| 	now	| 	écal Lausanne	| 	Creative Coding	| 	School	| 
 | 	1831	| 	now	| 	Universität Hannover	| 	Creative Coding Constructs (Physical Computing, Parametrisches Entwerfen)	| 	School	| 
 | 	1863	| 	now	| 	Politecnico di Milano	| 	Creative Coding	| 	School	| 
+| 	1890	| 	now	| 	NYU Steinhardt	| 	Creative Coding	| 	School	| 
+| 	1896	| 	now	| 	Parsons School of Design	| 	Creative Coding	| 	School	| 
+| 	1897	| 	now	| 	Victoria University of Wellington	| 	Creative Coding, Waehere ā-Auaha 	| 	School	| 
+| 	1907	| 	now	| 	Deutscher Werkbund	| 	-	| 	School	| 
+| 	1910	| 	now	| 	Kent State University	| 	Creative Coding	| 	School	| 
+| 	1919	| 	1925	| 	Bauhaus Weimar	| 	-	| 	School	| 
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
 | 1666 | 1714 | Philippe Grandjean | - | Person	| 
