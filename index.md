@@ -36,7 +36,7 @@ title: Generative Type
 | 	1925	| 	1932	| 	Bauhaus Weimar	| 	-	| 	School	| 
 | 	1932	| 	1933	| 	Bauhaus Berlin	| 	-	| 	School	| 
 | 	1937	| 	now	| 	New Bauhaus	| 	-	| 	School	| 
-| 	1953	| 	1968	| 	Ulm School of Design	| 	-	| 	School	| 
+| 	1953	| 	now	| 	Ulm School of Design	| 	-	| 	School	| 
 | 	1963	| 	now	| 	University of York	| 	Creative Coding	| 	School	| 
 | 	1965	| 	now	| 	NYU Tisch	| 	Creative Computing, Code!, Introduction to Machine, Learning for the Arts	| 	School	| 
 | 	1970	| 	now	| 	Hochschule für Gestaltung Offenbach am Main 	| 	-	| 	School	| 
