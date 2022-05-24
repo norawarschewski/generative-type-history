@@ -39,6 +39,11 @@ title: Generative Type
 | 	1953	| 	1968	| 	Ulm School of Design	| 	-	| 	School	| 
 | 	1963	| 	now	| 	University of York	| 	Creative Coding	| 	School	| 
 | 	1965	| 	now	| 	NYU Tisch	| 	Creative Computing, Code!, Introduction to Machine, Learning for the Arts	| 	School	| 
+| 	1970	| 	now	| 	Hochschule für Gestaltung Offenbach am Main 	| 	-	| 	School	| 
+| 	1971	| 	now	| 	Hochschule Osnabrück	| 	Creative Coding	| 	School	| 
+| 	1986	| 	now	| 	UAL	| 	Creative Coding and Creative Computing Frameworks	| 	School	| 
+| 	2009	| 	now	| 	Rhine-Waal University	| 	Elective Workshop Creative Coding, Creative Computing	| 	School	| 
+| 	2013	| 	now	| 	School for Poetic Computation	| 	-	| 	School	| 
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
 | 1666 | 1714 | Philippe Grandjean | - | Person	| 
