@@ -22,6 +22,7 @@ title: Generative Type
 | 1945 | now | Contemporary | - | Epoch |
 | 1965 | now | Post Modernism | - | Epoch |
 | | | | Schools | |		
+| 1965 | now | Post Modernism | - | Epoch |
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
 | 1666 | 1714 | Philippe Grandjean | - | Person	| 
