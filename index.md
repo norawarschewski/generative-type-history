@@ -22,7 +22,11 @@ title: Generative Type
 | 1945 | now | Contemporary | - | Epoch |
 | 1965 | now | Post Modernism | - | Epoch |
 | | | | Schools | |		
-| 1965 | now | Post Modernism | - | Epoch |
+| 	1682	| 	now	| 	Royal Academy of Art The Hague	| 	Creative Coding	| 	School	| 
+| 	1701	| 	now	| 	Yale University	| 	-	| 	School	| 
+| 	1821	| 	now	| 	écal Lausanne	| 	Creative Coding	| 	School	| 
+| 	1831	| 	now	| 	Universität Hannover	| 	Creative Coding Constructs (Physical Computing, Parametrisches Entwerfen)	| 	School	| 
+| 	1863	| 	now	| 	Politecnico di Milano	| 	Creative Coding	| 	School	| 
 | | | | Persons | |		
 | 1433 | 1479	| Felice Feliciano | - | Person |
 | 1666 | 1714 | Philippe Grandjean | - | Person	| 
