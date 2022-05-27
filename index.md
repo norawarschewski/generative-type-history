@@ -34,7 +34,6 @@ title: Generative Type
 | 1860 | 1910	| Großherzoglich-Sächsische Kunstschule Weimar | - | School	| 
 | 1919 | 1925	| Bauhaus Weimar | - | School	| 
 | 1925 | 1932	| Bauhaus Dessau | - | School	| 
-| 1932 | 1933 | Bauhaus Berlin | - | School	| 
 | 1989 | now | Bauhaus-Universität Weimar | - | School	| 
 | 1953 | now | Ulm School of Design | -	| School |
 | 1963 | now | University of York | Creative Coding	| School |
