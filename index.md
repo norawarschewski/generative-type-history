@@ -25,6 +25,7 @@ title: Generative Type
 | 1682 | now | Royal Academy of Art The Hague | Creative Coding	| School |
 | 1701 | now | Yale University | - | School |
 | 1821 | now | écal Lausanne | Creative Coding | School |
+| 1861 | now | Massachusetts Institute of Technology | - | School |
 | 1831 | now | Universität Hannover | Creative Coding Constructs (Physical Computing, Parametrisches Entwerfen) | School |
 | 1863 | now | Politecnico di Milano | Creative Coding | School |
 | 1890 | now | NYU Steinhardt | Creative Coding | School |
