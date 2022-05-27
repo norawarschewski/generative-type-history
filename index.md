@@ -31,15 +31,17 @@ title: Generative Type
 | 1896 | now | Parsons School of Design	| Creative Coding | School |
 | 1897 | now | Victoria University of Wellington | Creative Coding, Waehere ā-Auaha | School |
 | 1910 | now | Kent State University | Creative Coding | School |
+| 1860 | 1910	| Großherzoglich-Sächsische Kunstschule Weimar | - | School	| 
 | 1919 | 1925	| Bauhaus Weimar | - | School	| 
-| 1925 | 1932	| Bauhaus Weimar | - | School	| 
+| 1925 | 1932	| Bauhaus Dessau | - | School	| 
 | 1932 | 1933 | Bauhaus Berlin | - | School	| 
-| 1937 | now | New Bauhaus | - | School |
+| 1989 | now | Bauhaus-Universität Weimar | - | School	| 
 | 1953 | now | Ulm School of Design | -	| School |
 | 1963 | now | University of York | Creative Coding	| School |
 | 1965 | now | NYU Tisch | 	Creative Computing, Code!, Introduction to Machine, Learning for the Arts	| School | 
 | 1970 | now | Hochschule für Gestaltung Offenbach am Main | - | School | 
 | 1971 | now | Hochschule Osnabrück | Creative Coding | School |
+| 1971 | now | Fachhochschule Dortmund | - | School |
 | 1986 | now | UAL | Creative Coding and Creative Computing Frameworks | School |
 | 2009 | now | Rhine-Waal University | Elective Workshop Creative Coding, Creative Computing	| School |
 | 2013 | now | School for Poetic Computation | - | School | 
