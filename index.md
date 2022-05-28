@@ -115,3 +115,4 @@ title: Generative Type
 | 1990 | | Beowulf | Erik van Blokland, Just van Rossum | Typeface |
 | 1992 | | Blur | Neville Brody | Typeface |
 | 2018 | | Hesse-Antiqua | Gudrun Zapf-von Hesse /w Ferdinand Ulrich | Typeface | 
+| 2018 | | Goertek | Kontrapunkt in collaboration with the Daikoku Design Institute of Nippon Design Center | Typeface | 
