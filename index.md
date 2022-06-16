@@ -21,7 +21,7 @@ title: Generative Type
 | 1920 | 1939 | Art Deco | - | Epoch |
 | 1945 | now | Contemporary | - | Epoch |
 | 1965 | now | Post Modernism | - | Epoch |
-| | | | Schools | |		
+| | | | Schools (indicates foundation date of the school, not start of coding curricula) | |		
 | 1682 | now | Royal Academy of Art The Hague | Creative Coding	| School |
 | 1701 | now | Yale University | - | School |
 | 1821 | now | écal Lausanne | Creative Coding | School |
@@ -101,6 +101,7 @@ title: Generative Type
 | 2015 | | GlyphCollector | - | Tool |
 | 2015 | | GlyphsApp | - | Tool |
 | 2019 | | F%NT | - | Tool |
+| 2022 | | DINAMO FONT CUSTOMIZER™ | - | Tool |
 | | | | Typefaces | |									
 | 1745 | | Romain du Roi | Philippe Grandjean and a committee by king Louis XIV | Typeface |
 | 1901 | | Behrensschrift | Peter Behrens | Typeface |
