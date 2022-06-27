@@ -78,6 +78,7 @@ title: Generative Type
 | 1985 | now	| Refik Anadol | - | Person |
 | 1985 | now  | Christoph Knoth	| -	| Person | 
 | 1989 | now	| Nora Warschewski | - | Person |
+| n.d. | now	| Gianpaolo Tucci | - | Person |
 | | | | Tools and Languages | |										
 | 1977 | | Metafont | - | Tool |
 | 1991 | | Python | - | Tool |
