@@ -102,7 +102,7 @@ title: Generative Type
 | 2015 | | GlyphCollector | - | Tool |
 | 2015 | | GlyphsApp | - | Tool |
 | 2019 | | F%NT | - | Tool |
-| 2019 | | Variable Fonts Primer | [variablefonts.io](variablefonts.io) | Tool |
+| 2019 | | Variable Fonts Primer | [variablefonts.io](https://variablefonts.io) | Tool |
 | 2022 | | DINAMO FONT CUSTOMIZER™ | - | Tool |
 | 2022 | | Variable Fonts | v-fonts.com | Tool |
 | 2022 | | Variations Guide | variationsguide.typenetwork.com | Tool |
