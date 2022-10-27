@@ -103,6 +103,8 @@ title: Generative Type
 | 2015 | | GlyphsApp | - | Tool |
 | 2019 | | F%NT | - | Tool |
 | 2022 | | DINAMO FONT CUSTOMIZER™ | - | Tool |
+| 2022 | | Variable Fonts | v-fonts.com | Tool |
+| 2022 | | Variations Guide | variationsguide.typenetwork.com | Tool |
 | | | | Typefaces | |
 | 1745 | | Romain du Roi | Philippe Grandjean and a committee by king Louis XIV | Typeface |
 | 1901 | | Behrensschrift | Peter Behrens | Typeface |
